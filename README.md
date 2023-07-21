@@ -4,10 +4,11 @@ This is the coding assignment given by TestVagrant Technologies for the songs pl
 
 ## Features
 
--
-- By Clicking the message icon, it should direct to the default messaging app with the phone number.
-- Implement a local search function
-- App should not crash with any scenario, even if the responses are not proper
+- Implementation of playlist, with maximum no of songs with N songs.
+- In the capacity of playlist, we can have capacity less than equal to N songs.
+- When user adds more songs and capacity is full, songs which was least recently played will be removed and the new song will be added.
+- Implementation is based on Linked List datastructure.
+- Program should not crash with any scenario and it is handled properly.
 
 
 ## Output Screenshots
