@@ -6,7 +6,7 @@ This is the coding assignment given by TestVagrant Technologies for the songs pl
 
 - Implementation of playlist, with maximum no of songs with N songs.
 - In the capacity of playlist, we can have capacity less than equal to N songs.
-- When user adds more songs and capacity is full, songs which was least recently played will be removed and the new song will be added.
+- When user adds more songs and capacity is full,songs which was least recently played will be removed and the new song will be added.
 - Implementation is based on Linked List datastructure.
 - Program should not crash with any scenario and it is handled properly.
 
