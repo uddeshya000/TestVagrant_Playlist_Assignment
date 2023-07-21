@@ -4,8 +4,7 @@ This is the coding assignment given by TestVagrant Technologies for the songs pl
 
 ## Features
 
-- 
-
+-
 - By Clicking the message icon, it should direct to the default messaging app with the phone number.
 - Implement a local search function
 - App should not crash with any scenario, even if the responses are not proper
@@ -20,9 +19,12 @@ This is the coding assignment given by TestVagrant Technologies for the songs pl
 
 
 
+
 ## Build
 
-The app contains the usual debug and release build variants.
+The programs contains the latest build for this songs playlist.
 
 
 ## License
+
+This program is not licensed and open sourced with intial version.
